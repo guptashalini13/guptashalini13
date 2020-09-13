@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<!--
-**guptashalini13/guptashalini13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Myname is Shalini Gupta. I want to effectively utilise skills in field of data science/analysis for the development of myself and for the
+company with utmost dedication.
+
 
 Here are some ideas to get you started:
 
